@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/library-react-app/static/css/main.7563da38.chunk.css",
+    "main.js": "/library-react-app/static/js/main.f1065c12.chunk.js",
+    "main.js.map": "/library-react-app/static/js/main.f1065c12.chunk.js.map",
+    "runtime-main.js": "/library-react-app/static/js/runtime-main.87cda7f3.js",
+    "runtime-main.js.map": "/library-react-app/static/js/runtime-main.87cda7f3.js.map",
+    "static/js/2.96735d4a.chunk.js": "/library-react-app/static/js/2.96735d4a.chunk.js",
+    "static/js/2.96735d4a.chunk.js.map": "/library-react-app/static/js/2.96735d4a.chunk.js.map",
+    "index.html": "/library-react-app/index.html",
+    "precache-manifest.7b46123b6efefa9ed9fc17cd4ca053dc.js": "/library-react-app/precache-manifest.7b46123b6efefa9ed9fc17cd4ca053dc.js",
+    "service-worker.js": "/library-react-app/service-worker.js",
+    "static/css/main.7563da38.chunk.css.map": "/library-react-app/static/css/main.7563da38.chunk.css.map",
+    "static/js/2.96735d4a.chunk.js.LICENSE.txt": "/library-react-app/static/js/2.96735d4a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/library-react-app/static/media/janko-ferlic-sfL_QOnmy00-unsplash.a5e3913c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87cda7f3.js",
+    "static/js/2.96735d4a.chunk.js",
+    "static/css/main.7563da38.chunk.css",
+    "static/js/main.f1065c12.chunk.js"
+  ]
+}
